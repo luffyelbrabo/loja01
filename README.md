@@ -1,2 +1,3 @@
-<h1>Basteon VPN</h1>
-<h3>Em Lançamento</h3>
+<h1>D-NET-VPN</h1>
+<h3>A MELHOR INTERNET</h3>
+<h3>VOCÊ SÓ ENCONTRA AQUI!!</h3>
